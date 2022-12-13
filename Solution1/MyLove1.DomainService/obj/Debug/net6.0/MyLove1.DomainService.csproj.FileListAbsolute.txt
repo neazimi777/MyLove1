@@ -1,0 +1,17 @@
+E:\MyLove1\Solution1\MyLove1.DomainService\bin\Debug\net6.0\MyLove1.DomainService.deps.json
+E:\MyLove1\Solution1\MyLove1.DomainService\bin\Debug\net6.0\MyLove1.DomainService.dll
+E:\MyLove1\Solution1\MyLove1.DomainService\bin\Debug\net6.0\ref\MyLove1.DomainService.dll
+E:\MyLove1\Solution1\MyLove1.DomainService\bin\Debug\net6.0\MyLove1.DomainService.pdb
+E:\MyLove1\Solution1\MyLove1.DomainService\obj\Debug\net6.0\MyLove1.DomainService.csproj.AssemblyReference.cache
+E:\MyLove1\Solution1\MyLove1.DomainService\obj\Debug\net6.0\MyLove1.DomainService.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyLove1\Solution1\MyLove1.DomainService\obj\Debug\net6.0\MyLove1.DomainService.AssemblyInfoInputs.cache
+E:\MyLove1\Solution1\MyLove1.DomainService\obj\Debug\net6.0\MyLove1.DomainService.AssemblyInfo.cs
+E:\MyLove1\Solution1\MyLove1.DomainService\obj\Debug\net6.0\MyLove1.DomainService.csproj.CoreCompileInputs.cache
+E:\MyLove1\Solution1\MyLove1.DomainService\obj\Debug\net6.0\MyLove1.DomainService.dll
+E:\MyLove1\Solution1\MyLove1.DomainService\obj\Debug\net6.0\ref\MyLove1.DomainService.dll
+E:\MyLove1\Solution1\MyLove1.DomainService\obj\Debug\net6.0\MyLove1.DomainService.pdb
+E:\MyLove1\Solution1\MyLove1.DomainService\bin\Debug\net6.0\MyLove1.Domain.dll
+E:\MyLove1\Solution1\MyLove1.DomainService\bin\Debug\net6.0\MyLove1.Dto.dll
+E:\MyLove1\Solution1\MyLove1.DomainService\bin\Debug\net6.0\MyLove1.Domain.pdb
+E:\MyLove1\Solution1\MyLove1.DomainService\bin\Debug\net6.0\MyLove1.Dto.pdb
+E:\MyLove1\Solution1\MyLove1.DomainService\obj\Debug\net6.0\MyLove1.DomainService.csproj.CopyComplete

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+ 
+
+  <ItemGroup>
+    <ProjectReference Include="..\MyLove1.DomainService\MyLove1.DomainService.csproj" />
+    <ProjectReference Include="..\MyLove1.Dto\MyLove1.Dto.csproj" />
+  </ItemGroup>
+
+</Project>

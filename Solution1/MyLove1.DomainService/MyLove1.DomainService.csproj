@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Abstractions\" />
+  </ItemGroup>
+	
+	<ItemGroup>
+		<FrameworkReference Include="Microsoft.AspNetCore.App" />
+	</ItemGroup>
+	
+	<ItemGroup>
+	  <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+	</ItemGroup>
+	
+	<ItemGroup>
+	  <ProjectReference Include="..\MyLove1.Domain\MyLove1.Domain.csproj" />
+	  <ProjectReference Include="..\MyLove1.Dto\MyLove1.Dto.csproj" />
+	</ItemGroup>
+
+</Project>

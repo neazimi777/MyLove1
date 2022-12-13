@@ -1,0 +1,281 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\MyLove1\\Solution1\\MyLove1.Persistence\\MyLove1.Persistence.csproj": {}
+  },
+  "projects": {
+    "E:\\MyLove1\\Solution1\\MyLove1.DomainService\\MyLove1.DomainService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MyLove1\\Solution1\\MyLove1.DomainService\\MyLove1.DomainService.csproj",
+        "projectName": "MyLove1.DomainService",
+        "projectPath": "E:\\MyLove1\\Solution1\\MyLove1.DomainService\\MyLove1.DomainService.csproj",
+        "packagesPath": "C:\\Users\\n.azimi\\.nuget\\packages\\",
+        "outputPath": "E:\\MyLove1\\Solution1\\MyLove1.DomainService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\n.azimi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\MyLove1\\Solution1\\MyLove1.Domain\\MyLove1.Domain.csproj": {
+                "projectPath": "E:\\MyLove1\\Solution1\\MyLove1.Domain\\MyLove1.Domain.csproj"
+              },
+              "E:\\MyLove1\\Solution1\\MyLove1.Dto\\MyLove1.Dto.csproj": {
+                "projectPath": "E:\\MyLove1\\Solution1\\MyLove1.Dto\\MyLove1.Dto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\MyLove1\\Solution1\\MyLove1.Domain\\MyLove1.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MyLove1\\Solution1\\MyLove1.Domain\\MyLove1.Domain.csproj",
+        "projectName": "MyLove1.Domain",
+        "projectPath": "E:\\MyLove1\\Solution1\\MyLove1.Domain\\MyLove1.Domain.csproj",
+        "packagesPath": "C:\\Users\\n.azimi\\.nuget\\packages\\",
+        "outputPath": "E:\\MyLove1\\Solution1\\MyLove1.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\n.azimi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\MyLove1\\Solution1\\MyLove1.Dto\\MyLove1.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MyLove1\\Solution1\\MyLove1.Dto\\MyLove1.Dto.csproj",
+        "projectName": "MyLove1.Dto",
+        "projectPath": "E:\\MyLove1\\Solution1\\MyLove1.Dto\\MyLove1.Dto.csproj",
+        "packagesPath": "C:\\Users\\n.azimi\\.nuget\\packages\\",
+        "outputPath": "E:\\MyLove1\\Solution1\\MyLove1.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\n.azimi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\MyLove1\\Solution1\\MyLove1.Persistence\\MyLove1.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MyLove1\\Solution1\\MyLove1.Persistence\\MyLove1.Persistence.csproj",
+        "projectName": "MyLove1.Persistence",
+        "projectPath": "E:\\MyLove1\\Solution1\\MyLove1.Persistence\\MyLove1.Persistence.csproj",
+        "packagesPath": "C:\\Users\\n.azimi\\.nuget\\packages\\",
+        "outputPath": "E:\\MyLove1\\Solution1\\MyLove1.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\n.azimi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\MyLove1\\Solution1\\MyLove1.DomainService\\MyLove1.DomainService.csproj": {
+                "projectPath": "E:\\MyLove1\\Solution1\\MyLove1.DomainService\\MyLove1.DomainService.csproj"
+              },
+              "E:\\MyLove1\\Solution1\\MyLove1.Domain\\MyLove1.Domain.csproj": {
+                "projectPath": "E:\\MyLove1\\Solution1\\MyLove1.Domain\\MyLove1.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

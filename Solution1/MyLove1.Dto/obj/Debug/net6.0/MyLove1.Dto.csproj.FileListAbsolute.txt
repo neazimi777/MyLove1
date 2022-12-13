@@ -1,0 +1,12 @@
+E:\MyLove1\Solution1\MyLove1.Dto\bin\Debug\net6.0\MyLove1.Dto.deps.json
+E:\MyLove1\Solution1\MyLove1.Dto\bin\Debug\net6.0\MyLove1.Dto.dll
+E:\MyLove1\Solution1\MyLove1.Dto\bin\Debug\net6.0\ref\MyLove1.Dto.dll
+E:\MyLove1\Solution1\MyLove1.Dto\bin\Debug\net6.0\MyLove1.Dto.pdb
+E:\MyLove1\Solution1\MyLove1.Dto\obj\Debug\net6.0\MyLove1.Dto.csproj.AssemblyReference.cache
+E:\MyLove1\Solution1\MyLove1.Dto\obj\Debug\net6.0\MyLove1.Dto.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyLove1\Solution1\MyLove1.Dto\obj\Debug\net6.0\MyLove1.Dto.AssemblyInfoInputs.cache
+E:\MyLove1\Solution1\MyLove1.Dto\obj\Debug\net6.0\MyLove1.Dto.AssemblyInfo.cs
+E:\MyLove1\Solution1\MyLove1.Dto\obj\Debug\net6.0\MyLove1.Dto.csproj.CoreCompileInputs.cache
+E:\MyLove1\Solution1\MyLove1.Dto\obj\Debug\net6.0\MyLove1.Dto.dll
+E:\MyLove1\Solution1\MyLove1.Dto\obj\Debug\net6.0\ref\MyLove1.Dto.dll
+E:\MyLove1\Solution1\MyLove1.Dto\obj\Debug\net6.0\MyLove1.Dto.pdb

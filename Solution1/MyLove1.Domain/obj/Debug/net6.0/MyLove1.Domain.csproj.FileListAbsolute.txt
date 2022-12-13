@@ -1,0 +1,12 @@
+E:\MyLove1\Solution1\MyLove1.Domain\bin\Debug\net6.0\MyLove1.Domain.deps.json
+E:\MyLove1\Solution1\MyLove1.Domain\bin\Debug\net6.0\MyLove1.Domain.dll
+E:\MyLove1\Solution1\MyLove1.Domain\bin\Debug\net6.0\ref\MyLove1.Domain.dll
+E:\MyLove1\Solution1\MyLove1.Domain\bin\Debug\net6.0\MyLove1.Domain.pdb
+E:\MyLove1\Solution1\MyLove1.Domain\obj\Debug\net6.0\MyLove1.Domain.csproj.AssemblyReference.cache
+E:\MyLove1\Solution1\MyLove1.Domain\obj\Debug\net6.0\MyLove1.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyLove1\Solution1\MyLove1.Domain\obj\Debug\net6.0\MyLove1.Domain.AssemblyInfoInputs.cache
+E:\MyLove1\Solution1\MyLove1.Domain\obj\Debug\net6.0\MyLove1.Domain.AssemblyInfo.cs
+E:\MyLove1\Solution1\MyLove1.Domain\obj\Debug\net6.0\MyLove1.Domain.csproj.CoreCompileInputs.cache
+E:\MyLove1\Solution1\MyLove1.Domain\obj\Debug\net6.0\MyLove1.Domain.dll
+E:\MyLove1\Solution1\MyLove1.Domain\obj\Debug\net6.0\ref\MyLove1.Domain.dll
+E:\MyLove1\Solution1\MyLove1.Domain\obj\Debug\net6.0\MyLove1.Domain.pdb
