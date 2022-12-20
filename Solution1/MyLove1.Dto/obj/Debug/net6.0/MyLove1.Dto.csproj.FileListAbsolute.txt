@@ -10,3 +10,15 @@ E:\MyLove1\Solution1\MyLove1.Dto\obj\Debug\net6.0\MyLove1.Dto.csproj.CoreCompile
 E:\MyLove1\Solution1\MyLove1.Dto\obj\Debug\net6.0\MyLove1.Dto.dll
 E:\MyLove1\Solution1\MyLove1.Dto\obj\Debug\net6.0\ref\MyLove1.Dto.dll
 E:\MyLove1\Solution1\MyLove1.Dto\obj\Debug\net6.0\MyLove1.Dto.pdb
+D:\MyLove1\Solution1\MyLove1.Dto\bin\Debug\net6.0\MyLove1.Dto.deps.json
+D:\MyLove1\Solution1\MyLove1.Dto\bin\Debug\net6.0\MyLove1.Dto.dll
+D:\MyLove1\Solution1\MyLove1.Dto\bin\Debug\net6.0\MyLove1.Dto.pdb
+D:\MyLove1\Solution1\MyLove1.Dto\obj\Debug\net6.0\MyLove1.Dto.csproj.AssemblyReference.cache
+D:\MyLove1\Solution1\MyLove1.Dto\obj\Debug\net6.0\MyLove1.Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyLove1\Solution1\MyLove1.Dto\obj\Debug\net6.0\MyLove1.Dto.AssemblyInfoInputs.cache
+D:\MyLove1\Solution1\MyLove1.Dto\obj\Debug\net6.0\MyLove1.Dto.AssemblyInfo.cs
+D:\MyLove1\Solution1\MyLove1.Dto\obj\Debug\net6.0\MyLove1.Dto.csproj.CoreCompileInputs.cache
+D:\MyLove1\Solution1\MyLove1.Dto\obj\Debug\net6.0\MyLove1.Dto.dll
+D:\MyLove1\Solution1\MyLove1.Dto\obj\Debug\net6.0\refint\MyLove1.Dto.dll
+D:\MyLove1\Solution1\MyLove1.Dto\obj\Debug\net6.0\MyLove1.Dto.pdb
+D:\MyLove1\Solution1\MyLove1.Dto\obj\Debug\net6.0\ref\MyLove1.Dto.dll

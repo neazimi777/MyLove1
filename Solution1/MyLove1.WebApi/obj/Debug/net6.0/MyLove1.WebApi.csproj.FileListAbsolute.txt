@@ -89,3 +89,12 @@ E:\MyLove1\Solution1\MyLove1.WebApi\bin\Debug\net6.0\MyLove1.Domain.pdb
 E:\MyLove1\Solution1\MyLove1.WebApi\bin\Debug\net6.0\MyLove1.Persistence.pdb
 E:\MyLove1\Solution1\MyLove1.WebApi\bin\Debug\net6.0\MyLove1.presentation.pdb
 E:\MyLove1\Solution1\MyLove1.WebApi\bin\Debug\net6.0\MyLove1.Dto.pdb
+D:\MyLove1\Solution1\MyLove1.WebApi\obj\Debug\net6.0\MyLove1.WebApi.csproj.AssemblyReference.cache
+D:\MyLove1\Solution1\MyLove1.WebApi\obj\Debug\net6.0\MyLove1.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyLove1\Solution1\MyLove1.WebApi\obj\Debug\net6.0\MyLove1.WebApi.AssemblyInfoInputs.cache
+D:\MyLove1\Solution1\MyLove1.WebApi\obj\Debug\net6.0\MyLove1.WebApi.AssemblyInfo.cs
+D:\MyLove1\Solution1\MyLove1.WebApi\obj\Debug\net6.0\MyLove1.WebApi.csproj.CoreCompileInputs.cache
+D:\MyLove1\Solution1\MyLove1.WebApi\obj\Debug\net6.0\MyLove1.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\MyLove1\Solution1\MyLove1.WebApi\obj\Debug\net6.0\MyLove1.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\MyLove1\Solution1\MyLove1.WebApi\obj\Debug\net6.0\MyLove1.WebApi.dll
+D:\MyLove1\Solution1\MyLove1.WebApi\obj\Debug\net6.0\MyLove1.WebApi.pdb

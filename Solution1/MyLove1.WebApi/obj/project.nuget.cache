@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Zh2y5kslh/qkYxKspb6G3tYHrUHtJM09fZjQ7KGRryiFvU4/075GvOH5ZDCB6qB4u5lmlYM7ePgcJYat+Trq9g==",
+  "dgSpecHash": "MfKpYfeJEnvjKlzpNEzPBzfepz4egkaoNPTL//Jj509UcTPzxPJaNbGkyiA8hNre+IxE6pQD/+fTSEfb0nk63Q==",
   "success": true,
   "projectFilePath": "D:\\MyLove1\\Solution1\\MyLove1.WebApi\\MyLove1.WebApi.csproj",
   "expectedPackageFiles": [
@@ -46,6 +46,8 @@
     "C:\\Users\\negar\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\negar\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\negar\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\negar\\.nuget\\packages\\npgsql\\4.0.7\\npgsql.4.0.7.nupkg.sha512",
+    "C:\\Users\\negar\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\2.2.4\\npgsql.entityframeworkcore.postgresql.2.2.4.nupkg.sha512",
     "C:\\Users\\negar\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\negar\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\negar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
@@ -78,6 +80,7 @@
     "C:\\Users\\negar\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
     "C:\\Users\\negar\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\negar\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\negar\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
     "C:\\Users\\negar\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
   ],
   "logs": []

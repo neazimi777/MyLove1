@@ -17,3 +17,10 @@ E:\MyLove1\Solution1\MyLove1.Persistence\bin\Debug\net6.0\MyLove1.DomainService.
 E:\MyLove1\Solution1\MyLove1.Persistence\bin\Debug\net6.0\MyLove1.Domain.pdb
 E:\MyLove1\Solution1\MyLove1.Persistence\bin\Debug\net6.0\MyLove1.Dto.pdb
 E:\MyLove1\Solution1\MyLove1.Persistence\obj\Debug\net6.0\MyLove1.Persistence.csproj.CopyComplete
+D:\MyLove1\Solution1\MyLove1.Persistence\obj\Debug\net6.0\MyLove1.Persistence.csproj.AssemblyReference.cache
+D:\MyLove1\Solution1\MyLove1.Persistence\obj\Debug\net6.0\MyLove1.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyLove1\Solution1\MyLove1.Persistence\obj\Debug\net6.0\MyLove1.Persistence.AssemblyInfoInputs.cache
+D:\MyLove1\Solution1\MyLove1.Persistence\obj\Debug\net6.0\MyLove1.Persistence.AssemblyInfo.cs
+D:\MyLove1\Solution1\MyLove1.Persistence\obj\Debug\net6.0\MyLove1.Persistence.csproj.CoreCompileInputs.cache
+D:\MyLove1\Solution1\MyLove1.Persistence\obj\Debug\net6.0\MyLove1.Persistence.dll
+D:\MyLove1\Solution1\MyLove1.Persistence\obj\Debug\net6.0\MyLove1.Persistence.pdb
