@@ -79,7 +79,7 @@ public static class Program
     {
         using var scope = serviceProvider.CreateScope(); // do all migrations or none of them! create a transaction scope - MHA
 
-        await using var dbContext = scope.ServiceProvider.GetRequiredService<MyLoveDBContex>();
+        await using var dbContext = scope.ServiceProvider.GetRequiredService<MyLove1DBContext>();
  
     }
 }

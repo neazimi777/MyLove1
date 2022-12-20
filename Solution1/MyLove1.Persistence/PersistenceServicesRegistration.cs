@@ -10,7 +10,7 @@ namespace MyLove1.Persistence
         IConfiguration configuration)
         {
             //https://stackoverflow.com/questions/48443567/adddbcontext-or-adddbcontextpool
-            services.AddDbContextPool<MyLoveDBContex>(options =>
+            services.AddDbContextPool<MyLove1DBContext>(options =>
                 options.UseSqlServer(configuration.GetConnectionString("CPMDB")));
 
             return services;
