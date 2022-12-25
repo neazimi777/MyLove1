@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "OkAz0GT8CM6/nzKFQX8CW4RTOkimzyM1IPuJHXFAhcaHKX7uun1OOjf//7XavWRTg+WJ5w2z+C8G7Qz6mOB4nA==",
+  "dgSpecHash": "ZFL7r8MbPTnYfct3wruhjCQXZvbE7F32j7NHh/szVmpakPdmwZso/SL98jLHetNLWQ6bUxx64kS5bQUIKCpXOw==",
   "success": true,
   "projectFilePath": "E:\\MyLove1\\Solution1\\MyLove1.Persistence\\MyLove1.Persistence.csproj",
   "expectedPackageFiles": [
@@ -44,6 +44,8 @@
     "C:\\Users\\n.azimi\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\n.azimi\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\n.azimi\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\n.azimi\\.nuget\\packages\\nlog\\5.1.0\\nlog.5.1.0.nupkg.sha512",
+    "C:\\Users\\n.azimi\\.nuget\\packages\\nlog.extensions.logging\\5.2.0\\nlog.extensions.logging.5.2.0.nupkg.sha512",
     "C:\\Users\\n.azimi\\.nuget\\packages\\npgsql\\4.0.7\\npgsql.4.0.7.nupkg.sha512",
     "C:\\Users\\n.azimi\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\2.2.4\\npgsql.entityframeworkcore.postgresql.2.2.4.nupkg.sha512",
     "C:\\Users\\n.azimi\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",

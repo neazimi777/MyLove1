@@ -3,6 +3,7 @@ using CPM.Dimension.Presentation;
 using MyLove1.DomainService;
 using MyLove1.Dto;
 using MyLove1.Persistence;
+using NLog;
 
 namespace CPM.Dimension.WebApi;
 
@@ -27,6 +28,7 @@ public static class Program
 
         await app.RunAsync();
     }
+    private static Logger logger = LogManager.GetCurrentClassLogger();
 
     private static void ConfigureCors(WebApplicationBuilder builder)
     {

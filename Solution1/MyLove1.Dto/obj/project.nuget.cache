@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fO1tWGLL2On5DBPwjOlJYw0CumvclGswIH9mME7LE1te87Dt68sVymvKzDJBqDFOCu+JOC1gXwG/IeUJJfHWiA==",
+  "dgSpecHash": "ZXC9ywSIxa04TxLKw1HQy6RgFSTkXnRmK9H+/niKTxt3OAspBIFHzaDsWxeJWW2sf8vnjANeqNZ8k1iSBHW91Q==",
   "success": true,
   "projectFilePath": "E:\\MyLove1\\Solution1\\MyLove1.Dto\\MyLove1.Dto.csproj",
   "expectedPackageFiles": [
@@ -11,9 +11,14 @@
     "C:\\Users\\n.azimi\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.0\\microsoft.extensions.configuration.binder.7.0.0.nupkg.sha512",
     "C:\\Users\\n.azimi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\n.azimi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\n.azimi\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\n.azimi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\n.azimi\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "C:\\Users\\n.azimi\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\7.0.0\\microsoft.extensions.options.configurationextensions.7.0.0.nupkg.sha512",
     "C:\\Users\\n.azimi\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\n.azimi\\.nuget\\packages\\nlog\\5.1.0\\nlog.5.1.0.nupkg.sha512",
+    "C:\\Users\\n.azimi\\.nuget\\packages\\nlog.extensions.logging\\5.2.0\\nlog.extensions.logging.5.2.0.nupkg.sha512",
+    "C:\\Users\\n.azimi\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\n.azimi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
