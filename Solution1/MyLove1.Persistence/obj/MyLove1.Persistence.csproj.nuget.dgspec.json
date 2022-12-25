@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyLove1\\Solution1\\MyLove1.Persistence\\MyLove1.Persistence.csproj": {}
+    "E:\\MyLove1\\Solution1\\MyLove1.Persistence\\MyLove1.Persistence.csproj": {}
   },
   "projects": {
-    "D:\\MyLove1\\Solution1\\MyLove1.DomainService\\MyLove1.DomainService.csproj": {
+    "E:\\MyLove1\\Solution1\\MyLove1.DomainService\\MyLove1.DomainService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyLove1\\Solution1\\MyLove1.DomainService\\MyLove1.DomainService.csproj",
+        "projectUniqueName": "E:\\MyLove1\\Solution1\\MyLove1.DomainService\\MyLove1.DomainService.csproj",
         "projectName": "MyLove1.DomainService",
-        "projectPath": "D:\\MyLove1\\Solution1\\MyLove1.DomainService\\MyLove1.DomainService.csproj",
-        "packagesPath": "C:\\Users\\negar\\.nuget\\packages\\",
-        "outputPath": "D:\\MyLove1\\Solution1\\MyLove1.DomainService\\obj\\",
+        "projectPath": "E:\\MyLove1\\Solution1\\MyLove1.DomainService\\MyLove1.DomainService.csproj",
+        "packagesPath": "C:\\Users\\n.azimi\\.nuget\\packages\\",
+        "outputPath": "E:\\MyLove1\\Solution1\\MyLove1.DomainService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\negar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\n.azimi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\MyLove1\\Solution1\\MyLove1.Domain\\MyLove1.Domain.csproj": {
-                "projectPath": "D:\\MyLove1\\Solution1\\MyLove1.Domain\\MyLove1.Domain.csproj"
+              "E:\\MyLove1\\Solution1\\MyLove1.Domain\\MyLove1.Domain.csproj": {
+                "projectPath": "E:\\MyLove1\\Solution1\\MyLove1.Domain\\MyLove1.Domain.csproj"
               },
-              "D:\\MyLove1\\Solution1\\MyLove1.Dto\\MyLove1.Dto.csproj": {
-                "projectPath": "D:\\MyLove1\\Solution1\\MyLove1.Dto\\MyLove1.Dto.csproj"
+              "E:\\MyLove1\\Solution1\\MyLove1.Dto\\MyLove1.Dto.csproj": {
+                "projectPath": "E:\\MyLove1\\Solution1\\MyLove1.Dto\\MyLove1.Dto.csproj"
               }
             }
           }
@@ -70,21 +70,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300-preview.22204.3\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\MyLove1\\Solution1\\MyLove1.Domain\\MyLove1.Domain.csproj": {
+    "E:\\MyLove1\\Solution1\\MyLove1.Domain\\MyLove1.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyLove1\\Solution1\\MyLove1.Domain\\MyLove1.Domain.csproj",
+        "projectUniqueName": "E:\\MyLove1\\Solution1\\MyLove1.Domain\\MyLove1.Domain.csproj",
         "projectName": "MyLove1.Domain",
-        "projectPath": "D:\\MyLove1\\Solution1\\MyLove1.Domain\\MyLove1.Domain.csproj",
-        "packagesPath": "C:\\Users\\negar\\.nuget\\packages\\",
-        "outputPath": "D:\\MyLove1\\Solution1\\MyLove1.Domain\\obj\\",
+        "projectPath": "E:\\MyLove1\\Solution1\\MyLove1.Domain\\MyLove1.Domain.csproj",
+        "packagesPath": "C:\\Users\\n.azimi\\.nuget\\packages\\",
+        "outputPath": "E:\\MyLove1\\Solution1\\MyLove1.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\negar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\n.azimi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -134,21 +134,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300-preview.22204.3\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\MyLove1\\Solution1\\MyLove1.Dto\\MyLove1.Dto.csproj": {
+    "E:\\MyLove1\\Solution1\\MyLove1.Dto\\MyLove1.Dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyLove1\\Solution1\\MyLove1.Dto\\MyLove1.Dto.csproj",
+        "projectUniqueName": "E:\\MyLove1\\Solution1\\MyLove1.Dto\\MyLove1.Dto.csproj",
         "projectName": "MyLove1.Dto",
-        "projectPath": "D:\\MyLove1\\Solution1\\MyLove1.Dto\\MyLove1.Dto.csproj",
-        "packagesPath": "C:\\Users\\negar\\.nuget\\packages\\",
-        "outputPath": "D:\\MyLove1\\Solution1\\MyLove1.Dto\\obj\\",
+        "projectPath": "E:\\MyLove1\\Solution1\\MyLove1.Dto\\MyLove1.Dto.csproj",
+        "packagesPath": "C:\\Users\\n.azimi\\.nuget\\packages\\",
+        "outputPath": "E:\\MyLove1\\Solution1\\MyLove1.Dto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\negar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\n.azimi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -210,21 +210,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300-preview.22204.3\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\MyLove1\\Solution1\\MyLove1.Persistence\\MyLove1.Persistence.csproj": {
+    "E:\\MyLove1\\Solution1\\MyLove1.Persistence\\MyLove1.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyLove1\\Solution1\\MyLove1.Persistence\\MyLove1.Persistence.csproj",
+        "projectUniqueName": "E:\\MyLove1\\Solution1\\MyLove1.Persistence\\MyLove1.Persistence.csproj",
         "projectName": "MyLove1.Persistence",
-        "projectPath": "D:\\MyLove1\\Solution1\\MyLove1.Persistence\\MyLove1.Persistence.csproj",
-        "packagesPath": "C:\\Users\\negar\\.nuget\\packages\\",
-        "outputPath": "D:\\MyLove1\\Solution1\\MyLove1.Persistence\\obj\\",
+        "projectPath": "E:\\MyLove1\\Solution1\\MyLove1.Persistence\\MyLove1.Persistence.csproj",
+        "packagesPath": "C:\\Users\\n.azimi\\.nuget\\packages\\",
+        "outputPath": "E:\\MyLove1\\Solution1\\MyLove1.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\negar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\n.azimi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -238,11 +238,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\MyLove1\\Solution1\\MyLove1.DomainService\\MyLove1.DomainService.csproj": {
-                "projectPath": "D:\\MyLove1\\Solution1\\MyLove1.DomainService\\MyLove1.DomainService.csproj"
+              "E:\\MyLove1\\Solution1\\MyLove1.DomainService\\MyLove1.DomainService.csproj": {
+                "projectPath": "E:\\MyLove1\\Solution1\\MyLove1.DomainService\\MyLove1.DomainService.csproj"
               },
-              "D:\\MyLove1\\Solution1\\MyLove1.Domain\\MyLove1.Domain.csproj": {
-                "projectPath": "D:\\MyLove1\\Solution1\\MyLove1.Domain\\MyLove1.Domain.csproj"
+              "E:\\MyLove1\\Solution1\\MyLove1.Domain\\MyLove1.Domain.csproj": {
+                "projectPath": "E:\\MyLove1\\Solution1\\MyLove1.Domain\\MyLove1.Domain.csproj"
               }
             }
           }
@@ -277,7 +277,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300-preview.22204.3\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
