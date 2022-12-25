@@ -10,15 +10,15 @@ namespace MyLove1.Persistence.Repositories
         {
             _myLove1DBContext=myLove1DBContext;
         }
-        public async Task<User> AddAsync(User user)
-        {
-           return  await _myLove1DBContext.User
-                .AddAsync(user);
-        }
+        //public async Task<User> AddAsync(User user)
+        //{
+        //   return  await _myLove1DBContext.User
+        //        .AddAsync(user);
+        //}
 
         public void AddRange(List<User> users)
         {
-            
+            _myLove1DBContext.User.AddRange(users);
         }
     }
 }

@@ -98,3 +98,5 @@ D:\MyLove1\Solution1\MyLove1.WebApi\obj\Debug\net6.0\MyLove1.WebApi.MvcApplicati
 D:\MyLove1\Solution1\MyLove1.WebApi\obj\Debug\net6.0\MyLove1.WebApi.MvcApplicationPartsAssemblyInfo.cache
 D:\MyLove1\Solution1\MyLove1.WebApi\obj\Debug\net6.0\MyLove1.WebApi.dll
 D:\MyLove1\Solution1\MyLove1.WebApi\obj\Debug\net6.0\MyLove1.WebApi.pdb
+E:\MyLove1\Solution1\MyLove1.WebApi\bin\Debug\net6.0\Npgsql.dll
+E:\MyLove1\Solution1\MyLove1.WebApi\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

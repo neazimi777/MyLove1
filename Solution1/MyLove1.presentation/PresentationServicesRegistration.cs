@@ -39,30 +39,8 @@ public static class PresentationServicesRegistration
             options.SupportedUICultures = supportedCultures;
         });
 
-    services.AddSwaggerGen(options =>
-    {
-        var presentationDocumentationFile = $"{assembly.GetName().Name}.xml";
-        var presentationDocumentationFilePath =
-            Path.Combine(AppContext.BaseDirectory, presentationDocumentationFile);
-        options.IncludeXmlComments(presentationDocumentationFilePath);
-        options.SwaggerDoc("v1", new OpenApiInfo
-        {
-            Version = "v1.1",
-            Title = "CPM Dimension Management/ Design Attributes / Data entry values  API",
-            Description = "An ASP.NET Core Web API for managing CPM Dimension Management/ Design Attributes / Data entry values",
-            TermsOfService = new Uri("https://cpm.son.ir/terms"),
-            Contact = new OpenApiContact
-            {
-                Name = "SON Corp.",
-                Url = new Uri("https://son.ir/تماس-با-ما/")
-            },
-            License = new OpenApiLicense
-            {
-                Name = "License",
-                Url = new Uri("https://son.ir/license")
-            }
-        });
-            });
+        services.AddSwaggerGen();
+   
             return services;
     }
 
